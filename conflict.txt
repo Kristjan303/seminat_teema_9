@@ -1,3 +1,7 @@
 tere tetere tere
 9 seminari ül
+<<<<<<< HEAD
 uus rida.
+=======
+tere trere trere trere see ei ole tervist
+>>>>>>> 9615f29da37ce8d4463af869f301d38410a10af5
